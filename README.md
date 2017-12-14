@@ -4,7 +4,7 @@ Sample app to show interaction between DataWedge and Ionic2
 Configure DataWedge on your device as:
 - Input Plugin: Barcode
 - Output Plugin: Intent
-- Intent configured to output as Broadcast with action 'com.ionic.datawedge.ACTION'.  See screenshot below:
+- Intent configured to output as Broadcast with action '**com.ionic.datawedge.ACTION**'.  See screenshot below:
 
 ![DataWedge Config](https://raw.githubusercontent.com/darryncampbell/DataWedgeIonic2/master/screenshots/datawedge.png)
 
